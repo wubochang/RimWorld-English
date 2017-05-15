@@ -112,6 +112,16 @@
   <QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
   <WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
   <LongRangeMineralScannerEfficiency>Efficiency: {0}</LongRangeMineralScannerEfficiency>
+  <ItemStashContents>Contents: {0}.</ItemStashContents>
+  <SomeItemStashContents>Some contents: {0}.</SomeItemStashContents>
+  <ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
+  <WorkPriorityShiftClickTip>Shift + click: Increase priority\nShift + right click: Decrease priority</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>
+  <AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
+  <CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
+  <KnownSiteThreat>Threat: {0}.</KnownSiteThreat>
+  <KnownSiteThreats>Threats: {0}.</KnownSiteThreats>
+  <KnownSiteThreatsNone>Threats: none.</KnownSiteThreatsNone>
 
   <!-- Fermentation barrel -->
   <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
@@ -135,6 +145,7 @@
   <TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
   <TextMote_ConstructionFail>Construction\nfailed</TextMote_ConstructionFail>
   <TextMote_Dodge>Dodge</TextMote_Dodge>
+  <TextMote_Tended>{0} tended</TextMote_Tended>
 
   <!-- Areas -->
   <Home>Home</Home>

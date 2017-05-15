@@ -27,8 +27,8 @@
   <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
   <IsIncapped>{0} cannot walk.</IsIncapped>
 
-  <CommandAllowFiringLabel>Allow firing</CommandAllowFiringLabel>
-  <CommandAllowFiringDesc>Toggle allow firing.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.</CommandAllowFiringDesc>
+  <CommandFireAtWillLabel>Fire at will</CommandFireAtWillLabel>
+  <CommandFireAtWillDesc>Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.</CommandFireAtWillDesc>
 
   <CommandClearPrioritizedWork>Clear prioritized work</CommandClearPrioritizedWork>
   <CommandClearPrioritizedWorkDesc>Clear any prioritized work you assigned. The character will go back to their usual self-directed activities.</CommandClearPrioritizedWorkDesc>
@@ -167,11 +167,8 @@
   <!-- Settle -->
   <CommandSettle>Settle</CommandSettle>
   <CommandSettleDesc>Settle in this area. Your colonists will enter this area and you will be able to start building a new home.</CommandSettleDesc>
-  <CommandSettleFailOtherWorldObjectsHere>Your caravan must be the only object on this tile in order to settle the area.</CommandSettleFailOtherWorldObjectsHere>
   <CommandSettleFailAlreadyHaveBase>Your faction can only have one base.</CommandSettleFailAlreadyHaveBase>
   <CommandSettleFailReachedMaximumNumberOfBases>Reached maximum number of colonies.</CommandSettleFailReachedMaximumNumberOfBases>
-  <CommandSettleFailBiomeNotImplemented>Biome not implemented.</CommandSettleFailBiomeNotImplemented>
-  <CommandSettleFailFactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</CommandSettleFailFactionBaseAdjacent>
   <CommandSettleFailNoColonists>There isn't anybody there to claim the area.</CommandSettleFailNoColonists>
   <CommandSettleFailEnemies>There are enemies in this area.</CommandSettleFailEnemies>
 

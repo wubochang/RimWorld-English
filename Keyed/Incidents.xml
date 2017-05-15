@@ -7,7 +7,7 @@
   <AnimalInsanityMultiple>Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0}s in the area have been driven insane.</AnimalInsanityMultiple>
 
   <LetterLabelCropBlight>Blight</LetterLabelCropBlight>
-  <CropBlight>A mysterious blight has destroyed your crops.</CropBlight>
+  <CropBlight>A mysterious blight has ravaged your crops.</CropBlight>
 
   <LetterLabelMiracleHeal>Miracle</LetterLabelMiracleHeal>
   <MiracleHeal>{0} has experienced a miraculous recovery!</MiracleHeal>
@@ -110,7 +110,7 @@
 
   <!-- Building breaks down -->
   <LetterLabelBuildingBrokenDown>Breakdown: {0}</LetterLabelBuildingBrokenDown>
-  <LetterBuildingBrokenDown>One of your machines ({0}) has broken down. It won't work until a colonist with the Repair work type goes and fixes it.</LetterBuildingBrokenDown>
+  <LetterBuildingBrokenDown>One of your machines ({0}) has broken down. It won't work until a colonist with the Construction work type goes and fixes it.</LetterBuildingBrokenDown>
 
   <!-- Ransom demand -->
   <RansomDemandTitle>Ransom demand at {0}</RansomDemandTitle>
